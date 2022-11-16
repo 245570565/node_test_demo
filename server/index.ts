@@ -1,4 +1,4 @@
-// server/index.js
+// server/index.ts
  
 const express = require("express");
  
